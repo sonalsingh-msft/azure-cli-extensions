@@ -24,7 +24,7 @@ class Create(AAZCommand):
     _aaz_info = {
         "version": "2024-05-01",
         "resources": [
-            ["mgmt-plane", "/providers/microsoft.management/managementgroups/{}/providers/microsoft.network/networkmanagerconnections/{}", "2024-05-01""],
+            ["mgmt-plane", "/providers/microsoft.management/managementgroups/{}/providers/microsoft.network/networkmanagerconnections/{}", "2024-05-01"],
         ]
     }
 

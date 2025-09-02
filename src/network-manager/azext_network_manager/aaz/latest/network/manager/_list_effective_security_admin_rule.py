@@ -24,7 +24,7 @@ class ListEffectiveSecurityAdminRule(AAZCommand):
     _aaz_info = {
         "version": "2024-05-01",
         "resources": [
-            ["mgmt-plane", "/subscriptions/{}/resourcegroups/{}/providers/microsoft.network/virtualnetworks/{}/listnetworkmanagereffectivesecurityadminrules", "2024-05-01""],
+            ["mgmt-plane", "/subscriptions/{}/resourcegroups/{}/providers/microsoft.network/virtualnetworks/{}/listnetworkmanagereffectivesecurityadminrules", "2024-05-01"],
         ]
     }
 
